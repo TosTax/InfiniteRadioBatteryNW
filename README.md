@@ -1,5 +1,5 @@
 # InfiniteRadioBatteryNW ![Downloads](https://img.shields.io/github/downloads/TosTax/InfiniteRadioBatteryNW/total)
-Simple lightweight plugin to never let your radio run out of battery ever again. Made using NW API for SCP:SL.
+Simple lightweight plugin to never let your radio run out of battery ever again. Made using [NorthWood Plugin API](https://github.com/northwood-studios/NwPluginAPI).
 
 # Installation
 
